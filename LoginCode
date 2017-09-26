@@ -1,0 +1,25 @@
+ /*if (uid.equals("")) {
+                    attemptview.setText("user id can't be null");
+
+                } else if (pwd.length() < 6 && pwd.equals("")) {
+                    Toast.makeText(MainActivity.this, "Password Length Shoud be greater then 6", Toast.LENGTH_SHORT).show();
+                } else if (uid.equals("") && pwd.equals("ankit12345")) {
+                    Intent intent = new Intent(MainActivity.this, HomeActivity.class);
+                    startActivity(intent);
+                    userid.setText("");
+                    password.setText("");
+                } else {
+                    attempt--;
+                    if (attempt == 0) {
+                        onDestroy();
+                    } else {
+                        attemptview.setText("Attempts left  : " + attempt);
+                        userid.setText("");
+                        password.setText("");
+                        userid.setFocusable(true);
+                    }
+                }*/
+
+
+//Json Url String url = "https://jsonplaceholder.typicode.com/comments";
+//Json Url String url = "https://jsonplaceholder.typicode.com/posts/1";

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\layout\\footer.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/layout/newhome.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/layout/newhome.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\estimate.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\layout\\estimate.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recurring_invoice.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\layout\\recurring_invoice.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/layout/opration_adapter.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/layout/opration_adapter.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/layout/opration_header.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/layout/opration_header.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\opration_menu.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\layout\\opration_menu.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\opration_header.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\layout\\opration_header.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selected_opration_list.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\layout\\selected_opration_list.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newhome.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\layout\\newhome.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/layout/opration_menu.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/layout/opration_menu.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/layout/recurring_invoice.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/layout/recurring_invoice.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/layout/footer.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/layout/footer.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/layout/newheader.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/layout/newheader.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newheader.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\layout\\newheader.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/layout/selected_opration_list.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/layout/selected_opration_list.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/layout/estimate.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/layout/estimate.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\opration_adapter.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\layout\\opration_adapter.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_home.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\menu\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_opration_details.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\menu\\activity_opration_details.xml"
+    },
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_invoice_detail.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\menu\\activity_invoice_detail.xml"
+    },
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\menu\\opration__menu.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\menu\\opration__menu.xml"
+    },
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_splash_screen.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\menu\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_login.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\menu\\activity_login.xml"
+    }
+]

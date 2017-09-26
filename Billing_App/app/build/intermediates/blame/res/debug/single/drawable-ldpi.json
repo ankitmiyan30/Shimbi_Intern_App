@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher_old.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher_old.png"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher_old.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/drawable-ldpi/ic_launcher_old.png"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

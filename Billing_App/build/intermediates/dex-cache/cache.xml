@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ankit/AndroidStudioProjects/Billing_App/app/libs/acra-4.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d2613d074b20674c3d05d6d8615292b6172d1366">
+        <dex dex="/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/pre-dexed/debug/acra-4.4.0_ed7ae4d553ddc48cc82833862e63b6ee2faddbc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_cec63b60f8c34a847fb5b1a3bf6e00a50075049e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/AndroidStudioProjects/Billing_App/app/libs/httpmime-4.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="326bf4147f100e8a4fdd7f1867a87e969fb10812">
+        <dex dex="/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/pre-dexed/debug/httpmime-4.0.1_6f4bd19580d26e59da855e2f5b09ea106f6a15b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/AndroidStudioProjects/Billing_App/app/libs/apache-mime4j-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/pre-dexed/debug/apache-mime4j-0.6_5e6abf742bcde3d5d6f9142996fbff90d9948802.jar" />
+    </item>
+
+</items>

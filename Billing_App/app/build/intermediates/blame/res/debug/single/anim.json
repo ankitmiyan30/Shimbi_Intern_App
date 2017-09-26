@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/anim/trans_left_in.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/anim/trans_left_in.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_left_out.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\trans_left_out.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/anim/trans_left_out.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/anim/trans_left_out.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_right_out.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\trans_right_out.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_right_in.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\trans_right_in.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/anim/trans_right_in.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/anim/trans_right_in.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_left_in.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\trans_left_in.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/anim/trans_right_out.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/anim/trans_right_out.xml"
+    }
+]

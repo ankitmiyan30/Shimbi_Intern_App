@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\anim\\trans_left_in.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\trans_left_in.xml"
+    },
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\anim\\trans_left_out.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\trans_left_out.xml"
+    },
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\anim\\trans_right_in.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\trans_right_in.xml"
+    },
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\anim\\trans_right_out.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\trans_right_out.xml"
+    },
+    {
+        "merged": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_up.xml",
+        "source": "D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\anim\\slide_up.xml"
+    }
+]

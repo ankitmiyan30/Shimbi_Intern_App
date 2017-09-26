@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/include1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        layout="@layout/newheader" />
+
+    <include
+        android:id="@+id/include2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/include1"
+        layout="@layout/opration_header" />
+
+    <include
+        android:id="@+id/include3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        layout="@layout/footer" />
+
+    <ScrollView
+        android:id="@+id/scroll_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/include3"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/include2" >
+
+        <LinearLayout
+            android:id="@+id/layout_main"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/layout_blank_1"
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_invoice_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/new_tv_invoice_details_invoice_date_text_vertical"
+                    android:layout_width="6dp"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="10dp"
+                    android:background="#99CC00"
+                    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                <LinearLayout
+                    android:id="@+id/layout_invoice_date_main"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_invoice_date_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:ems="6"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_invoice_date_result"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ems="8"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/layout_due_date"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:id="@+id/tv_due_date"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:ems="6"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+
+                        <TextView
+                            android:id="@+id/tv_due_date_result"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ems="8"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_blank2"
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/new_tv_invoice_details_amount_text_vertical"
+                    android:layout_width="6dp"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="10dp"
+                    android:background="#33B5E5"
+                    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_amount_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:ems="6"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_amount_result"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ems="8"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+                    </LinearLayout>
+                    
+                    
+                     <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:id="@+id/layout_shipping" >
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_shipping_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:ems="6"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_shipping_result"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ems="8"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+                    </LinearLayout>
+                    
+                     
+                     <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:id="@+id/layout_additional" >
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_additional_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:ems="6"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_additional_result"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ems="8"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+                    </LinearLayout>
+                    
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_blank3"
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_service_tax"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/new_tv_invoice_details_service_tax_text_vertical"
+                    android:layout_width="6dp"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="10dp"
+                    android:background="#2285ff"
+                    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                <LinearLayout
+                    android:id="@+id/l_vertical_service_tax"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_service_tax_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:ems="6"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_service_tax_result"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ems="8"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_sales_tax_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:ems="6"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_sales_tax_result"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ems="8"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_blank4"
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_payabal_amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/new_tv_invoice_details_payable_amount_text_vertical"
+                    android:layout_width="6dp"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="10dp"
+                    android:background="#ff6f91"
+                    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_payable_amount_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:ems="6"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_payable_amount_result"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ems="8"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/layout_paid_amount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_paid_amount_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:ems="6"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_paid_amount_result"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ems="8"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_blank5"
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_color"
+                android:layout_width="fill_parent"
+                android:layout_height="7dp"
+                android:background="#33B5E5"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_blank_bottom"
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"
+                android:orientation="vertical" >
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_bal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/new_tv_invoice_details_balance_text_vertical"
+                    android:layout_width="6dp"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="10dp"
+                    android:background="#ff9702"
+                    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/layout_balance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_balance_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:ems="6"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+
+                        <TextView
+                            android:id="@+id/new_tv_invoice_details_balance_result"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ems="8"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textSize="@dimen/textsize" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/iv_receipt_stamp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginRight="30dp"
+                android:src="@drawable/paid_stamp_9"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

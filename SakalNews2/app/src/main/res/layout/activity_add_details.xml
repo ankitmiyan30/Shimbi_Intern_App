@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:padding="20dp"
+    android:paddingTop="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:textAlignment="center"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:text="Add News"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:paddingTop="20dp"
+        android:weightSum="2"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:textSize="40dp"
+            android:layout_marginRight="20dp"
+            android:textAlignment="center"
+            android:text="Add Photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageButton
+            android:id="@+id/get_image"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:padding="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/ic_menu_camera"/>
+    </LinearLayout>
+    <EditText
+        android:id="@+id/description"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:hint="Write News Description Here"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+    <ImageButton
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:id="@+id/imageButton"
+        android:layout_width="218dp"
+        android:layout_height="67dp"
+        android:maxHeight="200dp"
+        android:src="@drawable/submit1"
+        android:onClick="insert_Data"/>
+
+    <TextView
+        android:id="@+id/dismsg"
+        android:textColor="@android:color/holo_green_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

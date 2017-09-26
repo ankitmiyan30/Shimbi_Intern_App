@@ -1,0 +1,29 @@
+Password :- 	2@KapQIYb
+
+ Alias :- 			Distribution_mybilling_alias
+
+ Validity (years): - 		45
+
+ First and Last Name :- 	Siddharth Deshmukh
+
+ Organization :- 		ShimBi Computing Laboratories Pvt Ltd
+
+ City or Locality :- 		Pune
+
+ State or Province :- 		Maharashtra
+
+ Country Code :- 		India
+
+
+ Certificate fingerprints:
+  MD5 : 3C:4E:40:0A:C2:40:47:CA:DC:ED:93:D7:7E:ED:04:28
+   SHA1: F9:4E:24:93:88:31:73:72:79:94:0A:C5:30:29:EE:E3:6B:93:25:61
+
+
+Promotional Text
+Share Your Auto RickShaw Ride Experience for Benefit of Society.
+
+
+C:\>"Program Files\Java\jdk1.8.0_131\jre\bin\keytool" -genkey -v -keystore Billi
+ng.keystore -alias Distribution_mybilling_alias -keyalg RSA -keysize 1054 -valid
+ity 10000

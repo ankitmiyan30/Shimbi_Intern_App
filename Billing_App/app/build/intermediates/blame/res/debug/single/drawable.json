@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/drawable/q_mark.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/drawable/q_mark.png"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_act.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\drawable\\checkbox_act.png"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/drawable/custom_checkbox_design.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/drawable/custom_checkbox_design.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\drawable\\checkbox.png"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/drawable/checkbox.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/drawable/checkbox.png"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\q_mark.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\drawable\\q_mark.png"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_checkbox_design.xml",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/D:\\Rajendra_Desale\\mybilling\\Billing_App\\app\\src\\main\\res\\drawable\\custom_checkbox_design.xml"
+    },
+    {
+        "merged": "/home/ankit/AndroidStudioProjects/Billing_App/app/build/intermediates/res/merged/debug/drawable/checkbox_act.png",
+        "source": "/home/ankit/AndroidStudioProjects/Billing_App/app/src/main/res/drawable/checkbox_act.png"
+    }
+]

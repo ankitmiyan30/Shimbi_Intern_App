@@ -1,0 +1,186 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Selected_Opration_list" >
+
+    <include
+        android:id="@+id/include1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        layout="@layout/newheader" />
+
+    <include
+        android:id="@+id/include3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        layout="@layout/footer" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/include1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/new_home_tv_welcome_user"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/welcome"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#aaabab" />
+
+        <TextView
+            android:id="@+id/new_home_tv_total_amount"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#f1f0e3"
+            android:gravity="center"
+         
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#19305e" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_above="@+id/include3"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/new_home_tv_invoice_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="30dp"
+                android:gravity="left"
+                android:ems="5"
+                android:text="@string/invoice"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#19305e" />
+			 <TextView
+                android:layout_width="10dp"
+                android:layout_height="wrap_content" 
+                android:gravity="center"
+                android:ems="1"
+                android:text="@string/colon"
+                android:layout_marginRight="2dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#19305e" />
+            <TextView
+                android:id="@+id/new_home_tv_invoice_result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#19305e" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#2285ff"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/new_home_tv_receipts_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="30dp"
+                android:gravity="left"
+                android:ems="5"
+                android:text="@string/receipts"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#19305e" />
+			<TextView
+                android:layout_width="10dp"
+                android:layout_height="wrap_content" 
+                android:gravity="center"
+                android:ems="1"
+                android:text="@string/colon"
+                android:layout_marginRight="2dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#19305e" />
+            <TextView
+                android:id="@+id/new_home_tv_receipts_result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+				android:ems="10"                
+                
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#19305e" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#33B5E5"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/new_home_tv_OverDue_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+              	 android:paddingLeft="30dp"
+                android:gravity="left"
+                android:ems="5"
+                android:text="@string/overdue"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#19305e" />
+			<TextView
+                android:layout_width="10dp"
+                android:layout_height="wrap_content" 
+                android:gravity="center"
+                android:ems="1"
+                android:text="@string/colon"
+                android:layout_marginRight="2dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#19305e" />
+            <TextView
+                android:id="@+id/new_home_tv_Overdue_result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#19305e" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ff9702"
+            android:orientation="horizontal" >
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

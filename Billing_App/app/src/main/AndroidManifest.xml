@@ -1,0 +1,61 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shimbi.billing"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.shimbi.billing.Splash_screen"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.shimbi.billing.Login"
+            android:label="@string/title_activity_login"
+            android:screenOrientation="portrait"
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name="com.shimbi.billing.Home"
+            android:label="@string/title_activity_home"
+            android:screenOrientation="portrait"
+            android:noHistory="true">
+        </activity>
+        <activity
+            android:name="com.shimbi.billing.Selected_Opration_list"
+            android:label="@string/title_activity_selected__opration_list"
+            android:screenOrientation="portrait"
+            android:noHistory="true">
+        </activity>
+        <activity
+            android:name="com.shimbi.billing.Opration_details"
+            android:label="@string/title_activity_opration_details"
+            android:screenOrientation="portrait"
+            android:noHistory="true">
+        </activity>
+        <activity
+            android:name="com.shimbi.billing.Opration_Menu"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_opration__menu"
+            android:noHistory="true">
+        </activity>
+    </application>
+
+</manifest>
