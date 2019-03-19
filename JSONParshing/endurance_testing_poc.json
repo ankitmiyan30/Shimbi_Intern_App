@@ -1,9 +1,141 @@
-{"response":"success",
-    "values":{
-        "value1":{"type":"et","values":"","hint":"Enter your name","input":"*"},
-        "value2":{"type":"lb","values":"Name","hint":"","input":""},
-        "value3":{"type":"tv","values":"","hint":"Enter your address","input":"*"},
-        "value4":{"type":"img","values":"https://homepages.cae.wisc.edu/~ece533/images/airplane.png","hint":"logo","input":"*"},
-        "value5":{"type":"img","values":"https://homepages.cae.wisc.edu/~ece533/images/airplane.png","hint":"profile","input":"*"}
+{
+  "response": "success",
+  "values": [
+    {
+      "HeadLight": [
+        {
+          "type": "et",
+          "values": "",
+          "hint": "Enter your name",
+          "input": "*"
+        },
+        {
+          "type": "lb",
+          "values": "Name",
+          "hint": "",
+          "input": ""
+        },
+        {
+          "type": "tv",
+          "values": "",
+          "hint": "Enter your address",
+          "input": "*"
+        },
+        {
+          "type": "img",
+          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "hint": "logo",
+          "input": "*"
+        },
+        {
+          "type": "img",
+          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "hint": "profile",
+          "input": "*"
+        }
+      ]
+    },
+    {
+      "Engine": [
+        {
+          "type": "et",
+          "values": "",
+          "hint": "Enter your name",
+          "input": "*"
+        },
+        {
+          "type": "lb",
+          "values": "Name",
+          "hint": "",
+          "input": ""
+        },
+        {
+          "type": "tv",
+          "values": "",
+          "hint": "Enter your address",
+          "input": "*"
+        },
+        {
+          "type": "img",
+          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "hint": "logo",
+          "input": "*"
+        },
+        {
+          "type": "img",
+          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "hint": "profile",
+          "input": "*"
+        }
+      ]
+    },
+    {
+      "Tyre": [
+        {
+          "type": "et",
+          "values": "",
+          "hint": "Enter your name",
+          "input": "*"
+        },
+        {
+          "type": "lb",
+          "values": "Name",
+          "hint": "",
+          "input": ""
+        },
+        {
+          "type": "tv",
+          "values": "",
+          "hint": "Enter your address",
+          "input": "*"
+        },
+        {
+          "type": "img",
+          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "hint": "logo",
+          "input": "*"
+        },
+        {
+          "type": "img",
+          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "hint": "profile",
+          "input": "*"
+        }
+      ]
+    },
+    {
+      "Breaks": [
+        {
+          "type": "et",
+          "values": "",
+          "hint": "Enter your name",
+          "input": "*"
+        },
+        {
+          "type": "lb",
+          "values": "Name",
+          "hint": "",
+          "input": ""
+        },
+        {
+          "type": "tv",
+          "values": "",
+          "hint": "Enter your address",
+          "input": "*"
+        },
+        {
+          "type": "img",
+          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "hint": "logo",
+          "input": "*"
+        },
+        {
+          "type": "img",
+          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "hint": "profile",
+          "input": "*"
+        }
+      ]
     }
+  ]
 }
