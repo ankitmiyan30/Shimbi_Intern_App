@@ -1,0 +1,9 @@
+{"response":"success",
+    "values":{
+        "value1":{"type":"et","values":"","hint":"Enter your name","input":"*"},
+        "value2":{"type":"lb","values":"Name","hint":"","input":""},
+        "value3":{"type":"tv","values":"","hint":"Enter your address","input":"*"},
+        "value4":{"type":"img","values":"https://homepages.cae.wisc.edu/~ece533/images/airplane.png","hint":"logo","input":"*"},
+        "value5":{"type":"img","values":"https://homepages.cae.wisc.edu/~ece533/images/airplane.png","hint":"profile","input":"*"}
+    }
+}
