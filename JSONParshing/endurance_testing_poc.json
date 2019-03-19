@@ -1,5 +1,3 @@
-
-    
 {"response":"success",
     "values":{
         "value1":{"type":"et","values":"","hint":"Enter your name","input":"*"},
