@@ -10,8 +10,9 @@
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "etl",
           "values": "",
+          "labeltext":"Floor Location",
           "hint": "Floor Location",
           "input": "*"
         },
@@ -143,6 +144,13 @@
           "type": "et",
           "values": "",
           "hint": "Floor Location",
+          "input": "*"
+        },
+        {
+          "type": "etl",
+          "values": "",
+          "labeltext":"User Name",
+          "hint": "Enter User Name",
           "input": "*"
         },
         {
