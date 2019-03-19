@@ -10,18 +10,6 @@
           "input": "*"
         },
         {
-          "type": "lb",
-          "values": "Name",
-          "hint": "",
-          "input": ""
-        },
-        {
-          "type": "tv",
-          "values": "",
-          "hint": "Enter your address",
-          "input": "*"
-        },
-        {
           "type": "img",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "logo",
@@ -37,12 +25,6 @@
     },
     {
       "Engine": [
-        {
-          "type": "et",
-          "values": "",
-          "hint": "Enter your name",
-          "input": "*"
-        },
         {
           "type": "lb",
           "values": "Name",
@@ -71,24 +53,6 @@
     },
     {
       "Tyre": [
-        {
-          "type": "et",
-          "values": "",
-          "hint": "Enter your name",
-          "input": "*"
-        },
-        {
-          "type": "lb",
-          "values": "Name",
-          "hint": "",
-          "input": ""
-        },
-        {
-          "type": "tv",
-          "values": "",
-          "hint": "Enter your address",
-          "input": "*"
-        },
         {
           "type": "img",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
