@@ -6,7 +6,7 @@
         {
           "type": "et",
           "values": "",
-          "hint": "Enter your name",
+          "hint": "Enter your address",
           "input": "*"
         },
         {
@@ -34,7 +34,7 @@
         {
           "type": "tv",
           "values": "",
-          "hint": "Enter your address",
+          "hint": "Enter your state",
           "input": "*"
         },
         {
@@ -84,7 +84,7 @@
         {
           "type": "tv",
           "values": "",
-          "hint": "Enter your address",
+          "hint": "Enter your city",
           "input": "*"
         },
         {
