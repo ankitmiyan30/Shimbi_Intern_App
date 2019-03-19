@@ -6,7 +6,25 @@
         {
           "type": "et",
           "values": "",
-          "hint": "Enter your address",
+          "hint": "Fuel Lavel",
+          "input": "*"
+        },
+        {
+          "type": "et",
+          "values": "",
+          "hint": "Battery %",
+          "input": "*"
+        },
+        {
+          "type": "et",
+          "values": "",
+          "hint": "Floor Location",
+          "input": "*"
+        },
+        {
+          "type": "et",
+          "values": "",
+          "hint": "Operator Name",
           "input": "*"
         },
         {
