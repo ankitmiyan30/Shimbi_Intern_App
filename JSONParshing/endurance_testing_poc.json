@@ -38,6 +38,18 @@
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "profile",
           "input": "*"
+        },
+        {
+          "type": "et",
+          "values": "",
+          "hint": "Floor Location",
+          "input": "*"
+        },
+        {
+          "type": "et",
+          "values": "",
+          "hint": "Operator Name",
+          "input": "*"
         }
       ]
     },
@@ -81,6 +93,18 @@
           "type": "img",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "profile",
+          "input": "*"
+        },
+        {
+          "type": "et",
+          "values": "",
+          "hint": "Floor Location",
+          "input": "*"
+        },
+        {
+          "type": "et",
+          "values": "",
+          "hint": "Operator Name",
           "input": "*"
         }
       ]
