@@ -10,6 +10,13 @@
           "input": "*"
         },
         {
+          "type": "boolean",
+          "labeltext": "Break Type",
+          "segmentitem":"Caliper,Cantilever,V Brakes",
+          "hint": "",
+          "input": "*"
+        },
+        {
           "type": "etl",
           "values": "",
           "labeltext": "Floor Location",
@@ -23,9 +30,23 @@
           "input": "*"
         },
         {
+          "type": "boolean",
+          "labeltext": "Oil Checked",
+          "segmentitem":"Yes,No",
+          "hint": "",
+          "input": "*"
+        },
+        {
           "type": "et",
           "values": "",
           "hint": "Fuel Lavel",
+          "input": "*"
+        },
+        {
+          "type": "boolean",
+          "labeltext": "Break Type",
+          "segmentitem":"Caliper,Cantilever,V Brakes",
+          "hint": "",
           "input": "*"
         },
         {
@@ -83,6 +104,20 @@
           "input": "*"
         },
         {
+          "type": "boolean",
+          "labeltext": "Break Type",
+          "segmentitem":"Caliper,Cantilever,V Brakes",
+          "hint": "",
+          "input": "*"
+        },
+        {
+          "type": "boolean",
+          "labeltext": "Oil Checked",
+          "segmentitem":"Yes,No",
+          "hint": "",
+          "input": "*"
+        },
+        {
           "type": "et",
           "values": "",
           "hint": "Operator Name",
@@ -117,6 +152,13 @@
           "input": ""
         },
         {
+          "type": "boolean",
+          "labeltext": "Oil Checked",
+          "segmentitem":"Yes,No",
+          "hint": "",
+          "input": "*"
+        },
+        {
           "type": "tv",
           "values": "",
           "hint": "Enter your state",
@@ -126,6 +168,13 @@
           "type": "img",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "logo",
+          "input": "*"
+        },
+        {
+          "type": "boolean",
+          "labeltext": "Oil Checked",
+          "segmentitem":"Yes,No",
+          "hint": "",
           "input": "*"
         },
         {
@@ -186,11 +235,25 @@
           "values": "",
           "hint": "Operator Name",
           "input": "*"
+        },
+        {
+          "type": "boolean",
+          "labeltext": "Oil Checked",
+          "segmentitem":"Yes,No",
+          "hint": "",
+          "input": "*"
         }
       ]
     },
     {
       "Breaks": [
+        {
+          "type": "boolean",
+          "labeltext": "Oil Checked",
+          "segmentitem":"Yes,No",
+          "hint": "",
+          "input": "*"
+        },
         {
           "type": "et",
           "values": "",
@@ -211,16 +274,7 @@
         },
         {
           "type": "boolean",
-          "labeltext": "Oil Checked",
-          "count": "2",
-          "segmentitem":"Yes,No",
-          "hint": "",
-          "input": "*"
-        },
-        {
-          "type": "boolean",
           "labeltext": "Break Type",
-          "count": "3",
           "segmentitem":"Caliper,Cantilever,V Brakes",
           "hint": "",
           "input": "*"
