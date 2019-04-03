@@ -213,7 +213,7 @@
           "type": "boolean",
           "labeltext": "Oil Checked",
           "count": "2",
-          "count_text":"Yes,No",
+          "segmentitem":"Yes,No",
           "hint": "",
           "input": "*"
         },
@@ -221,7 +221,7 @@
           "type": "boolean",
           "labeltext": "Break Type",
           "count": "3",
-          "count_text":"Caliper,Cantilever,V Brakes",
+          "segmentitem":"Caliper,Cantilever,V Brakes",
           "hint": "",
           "input": "*"
         },
