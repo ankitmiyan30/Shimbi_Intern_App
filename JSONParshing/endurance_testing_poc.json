@@ -12,7 +12,7 @@
         {
           "type": "etl",
           "values": "",
-          "labeltext":"Floor Location",
+          "labeltext": "Floor Location",
           "hint": "Floor Location",
           "input": "*"
         },
@@ -149,7 +149,7 @@
         {
           "type": "etl",
           "values": "",
-          "labeltext":"User Name",
+          "labeltext": "User Name",
           "hint": "Enter User Name",
           "input": "*"
         },
@@ -207,6 +207,22 @@
           "type": "tv",
           "values": "",
           "hint": "Enter your city",
+          "input": "*"
+        },
+        {
+          "type": "boolean",
+          "values": "Oil Checked",
+          "count": "2",
+          "count_text":"Yes,No",
+          "hint": "",
+          "input": "*"
+        },
+        {
+          "type": "boolean",
+          "values": "Break Type",
+          "count": "3",
+          "count_text":"Caliper,Cantilever,V Brakes",
+          "hint": "",
           "input": "*"
         },
         {
