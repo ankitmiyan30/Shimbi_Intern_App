@@ -4,7 +4,7 @@
     {
       "HeadLight": [
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Battery %",
           "input": "*"
@@ -24,7 +24,7 @@
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Operator Name",
           "input": "*"
@@ -37,7 +37,7 @@
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Fuel Lavel",
           "input": "*"
@@ -50,19 +50,19 @@
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Battery %",
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Floor Location",
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Operator Name",
           "input": "*"
@@ -80,25 +80,25 @@
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Floor Location",
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Operator Name",
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Battery %",
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Floor Location",
           "input": "*"
@@ -118,25 +118,25 @@
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Operator Name",
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Battery %",
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Floor Location",
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Operator Name",
           "input": "*"
@@ -184,13 +184,13 @@
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Battery %",
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Floor Location",
           "input": "*"
@@ -203,7 +203,7 @@
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Operator Name",
           "input": "*"
@@ -225,13 +225,13 @@
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Floor Location",
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Operator Name",
           "input": "*"
@@ -255,7 +255,7 @@
           "input": "*"
         },
         {
-          "type": "et",
+          "type": "edittext",
           "values": "",
           "hint": "Enter your name",
           "input": "*"
