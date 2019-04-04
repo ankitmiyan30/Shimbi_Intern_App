@@ -10,14 +10,14 @@
           "input": "*"
         },
         {
-          "type": "boolean",
+          "type": "radio",
           "labeltext": "Break Type",
           "segmentitem":"Caliper,Cantilever,V Brakes",
           "hint": "",
           "input": "*"
         },
         {
-          "type": "etl",
+          "type": "labeledittext",
           "values": "",
           "labeltext": "Floor Location",
           "hint": "Floor Location",
@@ -30,7 +30,7 @@
           "input": "*"
         },
         {
-          "type": "boolean",
+          "type": "radio",
           "labeltext": "Oil Checked",
           "segmentitem":"Yes,No",
           "hint": "",
@@ -43,7 +43,7 @@
           "input": "*"
         },
         {
-          "type": "boolean",
+          "type": "radio",
           "labeltext": "Break Type",
           "segmentitem":"Caliper,Cantilever,V Brakes",
           "hint": "",
@@ -68,13 +68,13 @@
           "input": "*"
         },
         {
-          "type": "img",
+          "type": "imageview",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "logo",
           "input": "*"
         },
         {
-          "type": "img",
+          "type": "imageview",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "profile",
           "input": "*"
@@ -104,14 +104,14 @@
           "input": "*"
         },
         {
-          "type": "boolean",
+          "type": "radio",
           "labeltext": "Break Type",
           "segmentitem":"Caliper,Cantilever,V Brakes",
           "hint": "",
           "input": "*"
         },
         {
-          "type": "boolean",
+          "type": "radio",
           "labeltext": "Oil Checked",
           "segmentitem":"Yes,No",
           "hint": "",
@@ -146,13 +146,13 @@
     {
       "Engine": [
         {
-          "type": "lb",
+          "type": "label",
           "values": "Name",
           "hint": "",
           "input": ""
         },
         {
-          "type": "boolean",
+          "type": "radio",
           "labeltext": "Oil Checked",
           "segmentitem":"Yes,No",
           "hint": "",
@@ -165,20 +165,20 @@
           "input": "*"
         },
         {
-          "type": "img",
+          "type": "imageview",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "logo",
           "input": "*"
         },
         {
-          "type": "boolean",
+          "type": "radio",
           "labeltext": "Oil Checked",
           "segmentitem":"Yes,No",
           "hint": "",
           "input": "*"
         },
         {
-          "type": "img",
+          "type": "imageview",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "profile",
           "input": "*"
@@ -196,7 +196,7 @@
           "input": "*"
         },
         {
-          "type": "etl",
+          "type": "labeledittext",
           "values": "",
           "labeltext": "User Name",
           "hint": "Enter User Name",
@@ -213,13 +213,13 @@
     {
       "Tyre": [
         {
-          "type": "img",
+          "type": "imageview",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "logo",
           "input": "*"
         },
         {
-          "type": "img",
+          "type": "imageview",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "profile",
           "input": "*"
@@ -237,7 +237,7 @@
           "input": "*"
         },
         {
-          "type": "boolean",
+          "type": "radio",
           "labeltext": "Oil Checked",
           "segmentitem":"Yes,No",
           "hint": "",
@@ -248,7 +248,7 @@
     {
       "Breaks": [
         {
-          "type": "boolean",
+          "type": "radio",
           "labeltext": "Oil Checked",
           "segmentitem":"Yes,No",
           "hint": "",
@@ -261,7 +261,7 @@
           "input": "*"
         },
         {
-          "type": "lb",
+          "type": "label",
           "values": "Name",
           "hint": "",
           "input": ""
@@ -273,20 +273,20 @@
           "input": "*"
         },
         {
-          "type": "boolean",
+          "type": "radio",
           "labeltext": "Break Type",
           "segmentitem":"Caliper,Cantilever,V Brakes",
           "hint": "",
           "input": "*"
         },
         {
-          "type": "img",
+          "type": "imageview",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "logo",
           "input": "*"
         },
         {
-          "type": "img",
+          "type": "imageview",
           "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "profile",
           "input": "*"
