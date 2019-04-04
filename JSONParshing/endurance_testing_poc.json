@@ -146,6 +146,12 @@
       {
         "Engine": [
           {
+                "type": "imagepicker",
+                "imageurl": "",
+                "hint": "profile",
+                "input": "*"
+          },
+          {
             "type": "label",
             "values": "Name",
             "hint": "",
@@ -207,6 +213,12 @@
       {
         "Tyre": [
           {
+                "type": "imagepicker",
+                "imageurl": "",
+                "hint": "profile",
+                "input": "*"
+          },
+          {
             "type": "imageview",
             "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
             "hint": "logo",
@@ -235,6 +247,12 @@
       },
       {
         "Breaks": [
+          {
+                "type": "imagepicker",
+                "imageurl": "",
+                "hint": "profile",
+                "input": "*"
+          },
           {
             "type": "radio",
             "labeltext": "Oil Checked",
