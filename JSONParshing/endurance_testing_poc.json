@@ -1,273 +1,280 @@
 {
-  "response": "success",
-  "values": [
-    {
-      "HeadLight": [
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Battery %",
-          "input": "*"
-        },
-        {
-          "type": "radio",
-          "labeltext": "Break Type",
-          "segmentitem":"Caliper,Cantilever,V Brakes",
-          "hint": "",
-          "input": "*"
-        },
-        {
-          "type": "labeledittext",
-          "values": "",
-          "labeltext": "Floor Location",
-          "hint": "Floor Location",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Operator Name",
-          "input": "*"
-        },
-        {
-          "type": "radio",
-          "labeltext": "Oil Checked",
-          "segmentitem":"Yes,No",
-          "hint": "",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Fuel Lavel",
-          "input": "*"
-        },
-        {
-          "type": "radio",
-          "labeltext": "Break Type",
-          "segmentitem":"Caliper,Cantilever,V Brakes",
-          "hint": "",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Battery %",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Floor Location",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Operator Name",
-          "input": "*"
-        },
-        {
-          "type": "imageview",
-          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-          "hint": "profile",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Floor Location",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Operator Name",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Battery %",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Floor Location",
-          "input": "*"
-        },
-        {
-          "type": "radio",
-          "labeltext": "Break Type",
-          "segmentitem":"Caliper,Cantilever,V Brakes",
-          "hint": "",
-          "input": "*"
-        },
-        {
-          "type": "radio",
-          "labeltext": "Oil Checked",
-          "segmentitem":"Yes,No",
-          "hint": "",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Operator Name",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Battery %",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Floor Location",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Operator Name",
-          "input": "*"
-        }
-      ]
-    },
-    {
-      "Engine": [
-        {
-          "type": "label",
-          "values": "Name",
-          "hint": "",
-          "input": ""
-        },
-        {
-          "type": "radio",
-          "labeltext": "Oil Checked",
-          "segmentitem":"Yes,No",
-          "hint": "",
-          "input": "*"
-        },
-        {
-          "type": "tv",
-          "values": "",
-          "hint": "Enter your state",
-          "input": "*"
-        },
-        {
-          "type": "radio",
-          "labeltext": "Oil Checked",
-          "segmentitem":"Yes,No",
-          "hint": "",
-          "input": "*"
-        },
-        {
-          "type": "imageview",
-          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-          "hint": "profile",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Battery %",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Floor Location",
-          "input": "*"
-        },
-        {
-          "type": "labeledittext",
-          "values": "",
-          "labeltext": "User Name",
-          "hint": "Enter User Name",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Operator Name",
-          "input": "*"
-        }
-      ]
-    },
-    {
-      "Tyre": [
-        {
-          "type": "imageview",
-          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-          "hint": "logo",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Floor Location",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Operator Name",
-          "input": "*"
-        },
-        {
-          "type": "radio",
-          "labeltext": "Oil Checked",
-          "segmentitem":"Yes,No",
-          "hint": "",
-          "input": "*"
-        }
-      ]
-    },
-    {
-      "Breaks": [
-        {
-          "type": "radio",
-          "labeltext": "Oil Checked",
-          "segmentitem":"Yes,No",
-          "hint": "",
-          "input": "*"
-        },
-        {
-          "type": "edittext",
-          "values": "",
-          "hint": "Enter your name",
-          "input": "*"
-        },
-        {
-          "type": "label",
-          "values": "Name",
-          "hint": "",
-          "input": ""
-        },
-        {
-          "type": "tv",
-          "values": "",
-          "hint": "Enter your city",
-          "input": "*"
-        },
-        {
-          "type": "radio",
-          "labeltext": "Break Type",
-          "segmentitem":"Caliper,Cantilever,V Brakes",
-          "hint": "",
-          "input": "*"
-        },
-        {
-          "type": "imageview",
-          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-          "hint": "profile",
-          "input": "*"
-        }
-      ]
-    }
-  ]
-}
+    "response": "success",
+    "values": [
+      {
+        "HeadLight": [
+          {
+            "type": "imagepicker",
+            "imageurl": "",
+            "hint": "profile",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Battery %",
+            "input": "*"
+          },
+          {
+            "type": "radio",
+            "labeltext": "Break Type",
+            "segmentitem":"Caliper,Cantilever,V Brakes",
+            "hint": "",
+            "input": "*"
+          },
+          {
+            "type": "labeledittext",
+            "values": "",
+            "labeltext": "Floor Location",
+            "hint": "Floor Location",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Operator Name",
+            "input": "*"
+          },
+          {
+            "type": "radio",
+            "labeltext": "Oil Checked",
+            "segmentitem":"Yes,No",
+            "hint": "",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Fuel Lavel",
+            "input": "*"
+          },
+          {
+            "type": "radio",
+            "labeltext": "Break Type",
+            "segmentitem":"Caliper,Cantilever,V Brakes",
+            "hint": "",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Battery %",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Floor Location",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Operator Name",
+            "input": "*"
+          },
+          {
+            "type": "imageview",
+            "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "hint": "profile",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Floor Location",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Operator Name",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Battery %",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Floor Location",
+            "input": "*"
+          },
+          {
+            "type": "radio",
+            "labeltext": "Break Type",
+            "segmentitem":"Caliper,Cantilever,V Brakes",
+            "hint": "",
+            "input": "*"
+          },
+          {
+            "type": "radio",
+            "labeltext": "Oil Checked",
+            "segmentitem":"Yes,No",
+            "hint": "",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Operator Name",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Battery %",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Floor Location",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Operator Name",
+            "input": "*"
+          }
+        ]
+      },
+      {
+        "Engine": [
+          {
+            "type": "label",
+            "values": "Name",
+            "hint": "",
+            "input": ""
+          },
+          {
+            "type": "radio",
+            "labeltext": "Oil Checked",
+            "segmentitem":"Yes,No",
+            "hint": "",
+            "input": "*"
+          },
+          {
+            "type": "tv",
+            "values": "",
+            "hint": "Enter your state",
+            "input": "*"
+          },
+          {
+            "type": "radio",
+            "labeltext": "Oil Checked",
+            "segmentitem":"Yes,No",
+            "hint": "",
+            "input": "*"
+          },
+          {
+            "type": "imageview",
+            "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "hint": "profile",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Battery %",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Floor Location",
+            "input": "*"
+          },
+          {
+            "type": "labeledittext",
+            "values": "",
+            "labeltext": "User Name",
+            "hint": "Enter User Name",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Operator Name",
+            "input": "*"
+          }
+        ]
+      },
+      {
+        "Tyre": [
+          {
+            "type": "imageview",
+            "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "hint": "logo",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Floor Location",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Operator Name",
+            "input": "*"
+          },
+          {
+            "type": "radio",
+            "labeltext": "Oil Checked",
+            "segmentitem":"Yes,No",
+            "hint": "",
+            "input": "*"
+          }
+        ]
+      },
+      {
+        "Breaks": [
+          {
+            "type": "radio",
+            "labeltext": "Oil Checked",
+            "segmentitem":"Yes,No",
+            "hint": "",
+            "input": "*"
+          },
+          {
+            "type": "edittext",
+            "values": "",
+            "hint": "Enter your name",
+            "input": "*"
+          },
+          {
+            "type": "label",
+            "values": "Name",
+            "hint": "",
+            "input": ""
+          },
+          {
+            "type": "tv",
+            "values": "",
+            "hint": "Enter your city",
+            "input": "*"
+          },
+          {
+            "type": "radio",
+            "labeltext": "Break Type",
+            "segmentitem":"Caliper,Cantilever,V Brakes",
+            "hint": "",
+            "input": "*"
+          },
+          {
+            "type": "imageview",
+            "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+            "hint": "profile",
+            "input": "*"
+          }
+        ]
+      }
+    ]
+  }
+  
