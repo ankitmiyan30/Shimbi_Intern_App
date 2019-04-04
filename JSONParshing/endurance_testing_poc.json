@@ -69,13 +69,13 @@
         },
         {
           "type": "imageview",
-          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "logo",
           "input": "*"
         },
         {
           "type": "imageview",
-          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "profile",
           "input": "*"
         },
@@ -166,7 +166,7 @@
         },
         {
           "type": "imageview",
-          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "logo",
           "input": "*"
         },
@@ -179,7 +179,7 @@
         },
         {
           "type": "imageview",
-          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "profile",
           "input": "*"
         },
@@ -214,13 +214,13 @@
       "Tyre": [
         {
           "type": "imageview",
-          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "logo",
           "input": "*"
         },
         {
           "type": "imageview",
-          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "profile",
           "input": "*"
         },
@@ -281,13 +281,13 @@
         },
         {
           "type": "imageview",
-          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "logo",
           "input": "*"
         },
         {
           "type": "imageview",
-          "values": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+          "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
           "hint": "profile",
           "input": "*"
         }
