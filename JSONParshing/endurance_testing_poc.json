@@ -34,13 +34,6 @@
             "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
             "hint": "profile",
             "input": "*"
-          },
-          {
-            "type": "radio",
-            "labeltext": "Break Type",
-            "segmentitem": "Caliper,Cantilever,V Brakes",
-            "hint": "",
-            "input": "*"
           }
         ]
       },
@@ -69,13 +62,6 @@
             "type": "tv",
             "values": "",
             "hint": "Enter your state",
-            "input": "*"
-          },
-          {
-            "type": "radio",
-            "labeltext": "Oil Checked",
-            "segmentitem": "Yes,No",
-            "hint": "",
             "input": "*"
           },
           {
@@ -153,13 +139,6 @@
             "type": "tv",
             "values": "",
             "hint": "Enter your city",
-            "input": "*"
-          },
-          {
-            "type": "radio",
-            "labeltext": "Break Type",
-            "segmentitem": "Caliper,Cantilever,V Brakes",
-            "hint": "",
             "input": "*"
           },
           {
