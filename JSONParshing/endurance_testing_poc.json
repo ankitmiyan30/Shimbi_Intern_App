@@ -4,18 +4,21 @@
       {
         "HeadLight": [
           {
+            "key":"keya1",
             "type": "imagepicker",
             "imageurl": "",
             "hint": "profile",
             "input": "*"
           },
           {
+            "key":"keya2",
             "type": "edittext",
             "values": "",
             "hint": "Battery %",
             "input": "*"
           },
           {
+            "key":"keya3",
             "type": "radio",
             "labeltext": "Break Type",
             "segmentitem": "Caliper,Cantilever,V Brakes",
@@ -23,6 +26,7 @@
             "input": "*"
           },
           {
+            "key":"keya4",
             "type": "labeledittext",
             "values": "",
             "labeltext": "Floor Location",
@@ -30,6 +34,7 @@
             "input": "*"
           },
           {
+            "key":"keya5",
             "type": "imageview",
             "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
             "hint": "profile",
@@ -40,18 +45,21 @@
       {
         "Engine": [
           {
+            "key":"kayb1",
             "type": "imagepicker",
             "imageurl": "",
             "hint": "profile",
             "input": "*"
           },
           {
+            "key":"keyb2",
             "type": "label",
             "values": "Name",
             "hint": "",
             "input": ""
           },
           {
+            "key":"keyb3",
             "type": "radio",
             "labeltext": "Oil Checked",
             "segmentitem": "Yes,No",
@@ -59,19 +67,22 @@
             "input": "*"
           },
           {
+            "key":"keyb4",
             "type": "tv",
             "values": "",
             "hint": "Enter your state",
             "input": "*"
           },
           {
+            "key":"keyb5",
             "type": "imageview",
             "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
             "hint": "profile",
             "input": "*"
           },
           {
-            "type": "labeledittext",
+            "key":"headlight_image",
+            "type": "keyb6",
             "values": "",
             "labeltext": "User Name",
             "hint": "Enter User Name",
@@ -82,24 +93,28 @@
       {
         "Tyre": [
           {
+            "key":"keyc1",
             "type": "imagepicker",
             "imageurl": "",
             "hint": "profile",
             "input": "*"
           },
           {
+            "key":"keyc2",
             "type": "imageview",
             "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
             "hint": "logo",
             "input": "*"
           },
           {
+            "key":"keyc3",
             "type": "edittext",
             "values": "",
             "hint": "Floor Location",
             "input": "*"
           },
           {
+            "key":"keyc4",
             "type": "radio",
             "labeltext": "Oil Checked",
             "segmentitem": "Yes,No",
@@ -111,12 +126,14 @@
       {
         "Breaks": [
           {
+            "key":"keyd1",
             "type": "imagepicker",
             "imageurl": "",
             "hint": "profile",
             "input": "*"
           },
           {
+            "key":"keyd2",
             "type": "radio",
             "labeltext": "Oil Checked",
             "segmentitem": "Yes,No",
@@ -124,24 +141,28 @@
             "input": "*"
           },
           {
+            "key":"keyd3",
             "type": "edittext",
             "values": "",
             "hint": "Enter your name",
             "input": "*"
           },
           {
+            "key":"keyd4",
             "type": "label",
             "values": "Name",
             "hint": "",
             "input": ""
           },
           {
+            "key":"keyd5",
             "type": "tv",
             "values": "",
             "hint": "Enter your city",
             "input": "*"
           },
           {
+            "key":"keyd6",
             "type": "imageview",
             "imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
             "hint": "profile",
